@@ -1,15 +1,15 @@
 {
   "name": "founder-growth-agent",
   "displayName": "Founder Growth Agent",
-  "description": "AI-powered founder-led B2B growth strategist for solo founders",
+  "description": "AI-powered founder-led B2B growth strategist for solo founders and early-stage teams",
   "category": "ai",
-  "stack": ["AI", "Python"],
+  "stack": ["TypeScript", "Next.js", "React", "OpenAI API"],
   "version": "1.0.0",
   "pricing": {
     "free": true,
     "plans": [
-      {"name": "Starter", "price": 9, "interval": "month", "features": ["Core features", "1 user", "Basic support"]},
-      {"name": "Pro", "price": 29, "interval": "month", "features": ["All Starter features", "Unlimited usage", "Priority support"]}
+      {"name": "Starter", "price": 9, "interval": "month", "features": ["All free features", "CRM integration", "Personalized outreach", "Basic support"]},
+      {"name": "Pro", "price": 29, "interval": "month", "features": ["All Starter features", "Team collaboration", "White-label option", "Priority support"]}
     ]
   },
   "marketplace": {
@@ -22,7 +22,7 @@
   },
   "aurora": {
     "engine_version": "1.0",
-    "finishing_status": "sweep-applied",
-    "last_updated": "2026-04-04"
+    "finishing_status": "documentation-updated",
+    "last_updated": "2025-05-18"
   }
 }
