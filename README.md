@@ -173,4 +173,4 @@ MIT — Aurora Rayes LLC
 
 ---
 
-**Product ID:** founder-growth-agent | **Status:** MVP ✓ | **Part of:** Aurora Rayes Ecosystem
+**Product ID:** founder-growth-agent | **Status:** MVP ✓ | **Part of:** Aurora Rayes Ecosystem\n\n## no-key-first security\n- Never commit API keys, secrets, or production credentials.\n- Keep runtime secrets only in local env files or deployment settings.\n- Use placeholder/test values in repository metadata and docs.\n- Keep paid checkout disabled by default until launch readiness is approved.\n

@@ -28,5 +28,6 @@
     "eslint-config-next": "16.2.1",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
-}
+  },
+  "description": "founder-growth-agent project with safe no-key-first defaults and product-ready documentation."
+}\n
