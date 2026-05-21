@@ -174,3 +174,14 @@ MIT — Aurora Rayes LLC
 ---
 
 **Product ID:** founder-growth-agent | **Status:** MVP ✓ | **Part of:** Aurora Rayes Ecosystem\n\n## no-key-first security\n- Never commit API keys, secrets, or production credentials.\n- Keep runtime secrets only in local env files or deployment settings.\n- Use placeholder/test values in repository metadata and docs.\n- Keep paid checkout disabled by default until launch readiness is approved.\n
+
+<!-- AURORA:README:START -->
+## Aurora Rayes alignment
+
+**Aurora Raye Founder Growth Agent** is the preferred human-readable product name for generated Aurora Rayes collateral. The repository slug stays unchanged unless a separate rename process is approved.
+
+- Keep README messaging grounded in verified capabilities already present in this repo.
+- Prefer no-key-first evaluation and onboarding paths when the repo supports them.
+- Keep SELL.md and MARKETING.md aligned with the actual setup, deployment, and feature surface documented here.
+<!-- AURORA:README:END -->
+
